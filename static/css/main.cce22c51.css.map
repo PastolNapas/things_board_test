@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.cce22c51.css","mappings":"AACA,MAGE,aAFA,kBACA,WACA","sources":["App.scss"],"sourcesContent":["\n.main {\n  margin: 100px auto;\n  width: 600px;\n  height: 400px;\n}\n"],"names":[],"sourceRoot":""}

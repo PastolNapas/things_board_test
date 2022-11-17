@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/things_board_test/static/css/main.cce22c51.css",
+    "main.js": "/things_board_test/static/js/main.774422c5.js",
+    "index.html": "/things_board_test/index.html",
+    "main.cce22c51.css.map": "/things_board_test/static/css/main.cce22c51.css.map",
+    "main.774422c5.js.map": "/things_board_test/static/js/main.774422c5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cce22c51.css",
+    "static/js/main.774422c5.js"
+  ]
+}
