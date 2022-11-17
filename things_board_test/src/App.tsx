@@ -1,19 +1,3 @@
-// Get data from the api:
-// https://www.ag-grid.com/example-assets/olympic-winners.json
-
-// Display only 15 values on the line or bar chart with ECharts library.
-
-// The data should be displayed on the chart(pseudocode):
-// {
-// 	Name: NameOfAthlete,
-// 	Data: [goldMedals, silverMedals, bronzeMedals]
-// }
-
-// Chart’s container size: 600px*400px
-
-// Legend settings: orient - vertical, right-aligned
-// The legend shouldn’t be over the chart.
-
 import React, { useEffect, useState } from 'react';
 import * as echarts from 'echarts';
 import './App.scss';
